@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gaganjod/Leetcode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Gaganjod/Leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Gaganjod/Leetcode/tree/master/0704-binary-search) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjod/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Binary Search
 |  |
 | ------- |
