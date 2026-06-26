@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gaganjod/Leetcode/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/Gaganjod/Leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Gaganjod/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gaganjod/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Gaganjod/Leetcode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gaganjod/Leetcode/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Gaganjod/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
