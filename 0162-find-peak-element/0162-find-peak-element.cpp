@@ -18,6 +18,6 @@ public:
             }
         }
 
-        return low;
+        return high;
     }
 };
