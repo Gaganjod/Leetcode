@@ -3,7 +3,7 @@ public:
     int peakIndexInMountainArray(vector<int>& arr) {
         int n = arr.size();
         int low = 0;
-        int high = n - 1;
+        int high = n - 2;
         int ans = -1;
 
         while (low <= high) {
