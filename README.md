@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gaganjod/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Gaganjod/Leetcode/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaganjod/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gaganjod/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjod/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gaganjod/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Gaganjod/Leetcode/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaganjod/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gaganjod/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
