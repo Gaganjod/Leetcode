@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Gaganjod/Leetcode/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Gaganjod/Leetcode/tree/master/0344-reverse-string) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Simulation
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gaganjod/Leetcode/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Gaganjod/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
