@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gaganjod/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaganjod/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2427-number-of-common-factors](https://github.com/Gaganjod/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Gaganjod/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaganjod/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/Gaganjod/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Stack
