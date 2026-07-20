@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaganjod/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Gaganjod/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Gaganjod/Leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Gaganjod/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaganjod/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gaganjod/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaganjod/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Gaganjod/Leetcode/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
