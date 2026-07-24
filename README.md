@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaganjod/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Gaganjod/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Gaganjod/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Gaganjod/Leetcode/tree/master/0258-add-digits) |
@@ -165,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaganjod/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Gaganjod/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gaganjod/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gaganjod/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaganjod/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Gaganjod/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Enumeration
 |  |
