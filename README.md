@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Gaganjod/Leetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gaganjod/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Gaganjod/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Gaganjod/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gaganjod/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gaganjod/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Gaganjod/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Greedy
 |  |
 | ------- |
