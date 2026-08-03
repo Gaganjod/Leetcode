@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaganjod/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gaganjod/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Gaganjod/Leetcode/tree/master/0877-stone-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjod/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaganjod/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaganjod/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gaganjod/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Gaganjod/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Gaganjod/Leetcode/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/Gaganjod/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gaganjod/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gaganjod/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaganjod/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gaganjod/Leetcode/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Gaganjod/Leetcode/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaganjod/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Gaganjod/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
