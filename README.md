@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gaganjod/Leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Gaganjod/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Gaganjod/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Gaganjod/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaganjod/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gaganjod/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Gaganjod/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gaganjod/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gaganjod/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Gaganjod/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gaganjod/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
@@ -243,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Gaganjod/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Gaganjod/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
