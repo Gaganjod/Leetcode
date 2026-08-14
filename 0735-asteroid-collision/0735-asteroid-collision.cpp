@@ -1,63 +1,60 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
 
-        stack<int> st;
-
-        for (int num : asteroids) {
-
-            // If positive, it can never collide
-            // with anything currently in the stack.
-            if (num > 0) {
-                st.push(num);
-                continue;
+    /* Function to determine the state of 
+    asteroids after all collisions */
+    vector<int> asteroidCollision(vector<int> &asteroids){
+        
+        // Size of the array
+        int n = asteroids.size();
+        
+        // List implementation of stack
+        vector<int> st;  
+        
+        // Traverse all the asteroids
+        for(int i=0; i < n; i++) {
+            
+            /* Push the asteroid in stack if a 
+            right moving asteroid is seen */
+            if(asteroids[i] > 0) {
+                st.push_back(asteroids[i]);
             }
-
-            // Current negative asteroid is assumed alive
-            bool isAlive = true;
-
-            // Check for collisions
-            while (!st.empty() && st.top() > 0) {
-
-                // Case 1:
-                // Top positive asteroid is smaller
-                if (st.top() < abs(num)) {
-                    st.pop();
+            
+            /* Else if the asteroid is moving 
+            right, perform the collisions */
+            else {
+                
+                /* Until the right moving asteroids are 
+                smaller in size, keep on destroying them */ 
+                while(!st.empty() && st.back() > 0 && 
+                      st.back() < abs(asteroids[i])) {
+                    
+                    // Destroy the asteroid
+                    st.pop_back();
                 }
-
-                // Case 2:
-                // Both have same size
-                else if (st.top() == abs(num)) {
-                    st.pop();
-
-                    // Current negative asteroid also breaks
-                    isAlive = false;
-                    break;
+                
+                /* If there is right moving asteroid 
+                which is of same size */
+                if(!st.empty() && 
+                    st.back() == abs(asteroids[i])) {
+                    
+                    // Destroy both the asteroids
+                    st.pop_back();
                 }
-
-                // Case 3:
-                // Top positive asteroid is bigger
-                else {
-                    // Current negative asteroid breaks
-                    isAlive = false;
-                    break;
+                
+                /* Otherwise, if there is no left
+                moving asteroid, the right moving 
+                asteroid will not be destroyed */
+                else if(st.empty() ||
+                        st.back() < 0){
+                    
+                    // Storing the array in final state
+                    st.push_back(asteroids[i]);
                 }
-            }
-
-            // If current asteroid survived
-            if (isAlive) {
-                st.push(num);
             }
         }
-
-        // Convert stack to vector
-        vector<int> ans(st.size());
-
-        for (int i = st.size() - 1; i >= 0; i--) {
-            ans[i] = st.top();
-            st.pop();
-        }
-
-        return ans;
+        
+        // Return the final state of asteroids
+        return st;
     }
 };
