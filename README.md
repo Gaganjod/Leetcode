@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Gaganjod/Leetcode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gaganjod/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Gaganjod/Leetcode/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaganjod/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjod/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaganjod/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaganjod/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaganjod/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gaganjod/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaganjod/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gaganjod/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
@@ -259,5 +261,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaganjod/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gaganjod/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaganjod/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
