@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gaganjod/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaganjod/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaganjod/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaganjod/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gaganjod/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaganjod/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Gaganjod/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Gaganjod/Leetcode/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gaganjod/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaganjod/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Gaganjod/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
