@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaganjod/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gaganjod/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaganjod/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Gaganjod/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Gaganjod/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gaganjod/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/Gaganjod/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gaganjod/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Gaganjod/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Gaganjod/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
